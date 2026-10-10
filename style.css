@@ -18,16 +18,16 @@ audio {
 
 }
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
     audio {
-        max-width: 140px;
+        max-width: 200px;
     }
 }
 
 
 
 html, body {
-    max-width: 110%;
+    max-width: 130%;
     overflow-x: hidden;
 }
 
