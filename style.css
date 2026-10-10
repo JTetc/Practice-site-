@@ -16,3 +16,8 @@ audio {
     top: 20px;
     right: 20px;
 }
+
+audio {
+    position: relative;
+    z-index: 9999;
+}
