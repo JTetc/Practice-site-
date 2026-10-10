@@ -18,3 +18,8 @@ audio {
 
 }
 
+@media (max-width: 600px) {
+    audio {
+        max-width: 130px;
+    }
+}
