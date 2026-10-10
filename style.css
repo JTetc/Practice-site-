@@ -28,7 +28,7 @@ audio {
 
 html, body {
     max-width: 150%;
-    overflow-x: visible;
+    overflow-x: hidden;
 }
 
 .site-header {
