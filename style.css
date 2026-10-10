@@ -20,6 +20,22 @@ audio {
 
 @media (max-width: 600px) {
     audio {
-        max-width: 130px;
+        max-width: 129px;
     }
+}
+
+
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 15px;
 }
